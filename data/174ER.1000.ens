@@ -1,0 +1,1000 @@
+174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)                         174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
+174TM2c  to levels at 767 and 773 from {+174}Er (J|p=0+) is inconsistent with
+174TM3c  |g-ray decay from these levels to {+174}Tm (J|p=4-) g.s., which
+174TM4c  suggests the existence of a a very low-energy level with J|<2
+174TM5c  (1991Be04). But 2006Ch10 exclude this conclusion.
+174TM c  Measured E|b|~1.3 MeV (1989Ch05).
+174TM cG E,RI$From 1991Be04.
+174TM cG M$From adopted gammas
+174TM cL T$From adopted levels. Other: 3.3 M 2 (1989Ch05), 3.1 M 3 (1991Be04)
+174TM CL J$ From adopted levels
+174TM DG CC$FROM BrIcc v2.3b (16-Dec-2014) 2008Ki07, "Frozen Orbitals" appr.
+174TM CG MR$IF NO VALUE GIVEN IT WAS ASSUMED MR=1.00 FOR E2/M1,
+174TM2CG MR=1.00 FOR E3/M2 AND MR=0.10 FOR THE OTHER MULTIPOLARITIES
+174ER  P 0.0          0+                3.2 M     2              1.92E3   30
+174TM  N 0.114     7            1.0
+174TM cN NR$Assuming no |b{+-} population to levels at 58.5 keV and below, and
+174TM2cN using I|g(71.7|g + 100.4|g + 130.4|g + 708.6|g + 714.4 + 766.5|g
+174TM3CN + 773.4|g)=100%.
+174TM PN                                                                     3
+174TM  L 0.0          4-                5.4 M     1
+174TM  L 58.53     17 (2-)
+174TM  G 58.5      2  45     LT (E2)                    25.6  6
+174TMS G  LC=19.6 5$MC=4.81 11
+174TMS G  NC=1.091 24$OC=0.124 3$PC=0.0001396 22
+174TM cG $Observed only in a coincidence experiment (1989Ch05). Not observed
+174TM2cG by 1991Be04 (I|g|<45, estimated from K| x ray intensities).
+174TM  L 100.40    20 3-
+174TM  G 100.4     2  100       M1                      3.07
+174TMS G  KC=2.57 4$LC=0.389 6$MC=0.0867 14
+174TMS G  NC=0.0203 3$OC=0.00291 5$PC=0.0001577 24
+174TM cG $EKC=1.7 {I3} (1991Be04) suggests M1+E2 with MR=1.1 {I+7-4}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM CG $Other: E|g=100.4 {I2}, I|g=100 {I1} (1989Ch05)
+174TM  B             31                  5.6
+174TMS B EAV=6.8E2 13
+174TM  L 130.26    20 (3-)
+174TM  G 71.7      2  8      5  (M1)                    8.09  13
+174TMS G  KC=6.76 11$LC=1.033 17$MC=0.230 4
+174TMS G  NC=0.0539 9$OC=0.00774 13$PC=0.000418 7
+174TM cG $Other: E|g=71.7 {I2}, I|g=15 {I1} (1989Ch05)
+174TM  G 130.4     3  43     4  (M1)                    1.453 23
+174TMS G  KC=1.217 19$LC=0.184 3$MC=0.0410 7
+174TMS G  NC=0.00958 15$OC=0.001378 22$PC=7.46E-5 12
+174TM cG $Other: E|g=130.4 {I2}, I|g=42 {I8} (1989Ch05)
+174TM  B             13                  5.9
+174TMS B EAV=6.6E2 13
+174TM  L 252.4     4  0+                2.29 S    1
+174TM cL $A 121.8-keV |g ray (I|g=39 {I6}) was observed by 1989Ch05, but not
+174TM2cL by 1991Be04 (I|g|<5).
+174TM  G 152.0     3  54.2   11 E3                      6.51  12
+174TMS G  KC=1.192 18$LC=4.03 8$MC=1.026 19
+174TMS G  NC=0.235 5$OC=0.0271 5$PC=7.59E-5 12
+174TM cG $Other: E|g=151.8 {I2}.
+174TM cG RI$From intensity balance at 100-keV level. Others: I|g=91 {I15}
+174TM2cG (1989Ch05), I|g=75 {I10} (1991Be04)
+174TM cG $EKC=0.54 {I6} (1991Be04) suggests M1+E2 with MR=1.2 {I+4-3}, which
+174TM2cG disagrees with 2005Ch67 and 2006Ch10
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM  G 714.4     6  38     4
+174TM cG $Other: E|g=714.4 {I2}, I|g=56 {I6} (1989Ch05)
+174TM  G 773.4     6  100    7
+174TM cG $Other: E|g=772.9 {I2}, I|g=75 {I8} (1989Ch05)
+174TM  B             18                  5.1
+174TMS B EAV=3.9E2 13
+174TM  B             15                  5.8
+174TMS B EAV=6.1E2 13
+174TM  L 767.0     4
+174TM  G 637.0     5  60     4
+174TM cG $Other: E|g=636.7 {I2}, I|g=27 {I5} (1989Ch05)
+174TM  G 708.6     6  57     5
+174TM cG $Other: E|g=708.4 {I2}, I|g=93 {I7} (1989Ch05)
+174TM  G 766.5     6  97     6
+174TM cG $Other: E|g=766.9 {I2}, I|g=92 {I9} (1989Ch05)
+174TM  B             23                  5.0
+174TMS B EAV=4.0E2 13
+174TM  L 773.2     4
+174TM  G 642.9     5  25     3
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM cG $Other: E|g=642.7 {I2}, I|g=25 {I2} (1989Ch05)
+174TM    174ER B- DECAY                1991BE04,1989CH05         99NDS    199908
+174TM  H TYP=UPD$AUT=Tibor Kibedi$CUT=1-Sep-2015$
+174TM  H TYP=FUL$AUT=E. BROWNE, HUO JUNDE$CIT=NDS 87, 15 (1999)$CUT=1-Nov-1998
+174TM c  Activity produced by bombarding natural tungsten target with {+176}Yb
+174TM2c  (E=1.5 GeV) projectiles (1989Ch05) and {+186}W target with {+136}Xe
+174TM3c  (E=1.577 GeV) projectiles (1991Be04). Mass separated {+174}Er.
+174TM4c  Measured |b{+-}, |g-ray energies and intensities, coincidences, Tm
+174TM5c  K-x rays (1991Be04,1989Ch05).
+174TM c  {+174}Er decay scheme is based on 1991Be04. Direct |b{+-} population
