@@ -28,6 +28,19 @@ function parseENSDFRow(row){
     return row;
 }
 
+function createENSDFFile(ids){
+
+    var source = "";
+    for(var i=0; i< ids.length; i++){
+        $.each(ENSDF.data[ids[i]], function(index,value){
+            if(index!='meta')source+=value;
+        });
+        source+="\n";
+    }
+
+    return source;
+}
+
 function addRow(row){
     var key = uuid.v4();
     ENSDF.data[key]=row;
