@@ -11,7 +11,7 @@ $(document).ready(function(){
 
  $('#save').click(function(){
      var source = createENSDFFile($('.dataRows > ol li').map(function(){return $(this).data('id');}).get());
-     console.log(source);
+     saveTextAs(source, "test.ens");
  });
 
  $('#file').change(function(){
