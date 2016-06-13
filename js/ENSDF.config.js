@@ -7,7 +7,7 @@ window.ENSDF={
             fields:[
                 {key:'NUCID', start:0, end:5},
                 {key:'ch6', start:6, end:7},
-                {key:'ch7', start:8, end:7}
+                {key:'ch7', start:8, end:15}
         ]},
         {
             name:'secondary',
