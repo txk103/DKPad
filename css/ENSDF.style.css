@@ -1,0 +1,9 @@
+span.fl_alpha       {background-color: green;}
+span.fl_beta        {background-color: blue;}
+span.fl_omega       {background-color: pink;}
+
+input.fl_alpha       {width:40px;}
+input.fl_beta        {width:50px;}
+input.fl_omega       {width:300px;}
+
+input.error        {border: solid 1px red;}
