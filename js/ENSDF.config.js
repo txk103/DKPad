@@ -1,13 +1,13 @@
 window.ENSDF={
     types:[
         {
-            name:'standard',
+            name:'gamma',
             level:1,
-            expression:'^.{7}[^G].*$',
+            expression:'^\d{1,3}[A-Z]{1,2} [ |1]G ',
             fields:[
-                {key:'alpha', start:0, end:5},
-                {key:'beta', start:5, end:9},
-                {key:'omega', start:9}
+                {key:'NUCID', start:0, end:5},
+                {key:'ch6', start:6, end:7},
+                {key:'ch7', start:8, end:7}
         ]},
         {
             name:'secondary',
